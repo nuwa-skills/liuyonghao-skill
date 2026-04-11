@@ -4,10 +4,9 @@
 
 > 让 AI 用刘永好的视角思考 -- 农业帝国缔造者、家族传承智慧、顺势而为的产业哲学
 
-[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-blue?style=flat-square&logo=anthropic)](https://github.com/Panmax/liuyonghao-skill)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
-[![Skills](https://img.shields.io/badge/skills-perspective-green?style=flat-square)](https://github.com/Panmax/liuyonghao-skill)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将刘永好 40 年农牧帝国的深耕智慧、家族企业治理经验与低调稳健的经营哲学蒸馏为 AI 可调用的思维模型**
 
 </div>
@@ -91,12 +90,12 @@ liuyonghao-skill/
 
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
-## 许可证
-
-[MIT](LICENSE) -- 自由使用，保留署名即可。
-
 ---
 
 <div align="center">
-  <sub>Built with care by <a href="https://github.com/Panmax">Panmax</a></sub>
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
 </div>
