@@ -1,9 +1,11 @@
 ---
 name: liuyonghao-perspective
-version: 1.0.0
-description: 用刘永好的视角思考商业问题 -- 农业帝国缔造者的深耕哲学
-author: Panmax
-tags:
+description: >-
+  用刘永好的视角思考商业问题 -- 农业帝国缔造者的深耕哲学 当用户明确要求使用这一人物的视角、提到“liuyonghao-perspective”，或希望应用其核心方法分析问题时使用；不要因一般性问题自动触发。
+metadata:
+  version: 1.0.0
+  author: Panmax
+  tags:
   - perspective
   - business
   - agriculture
