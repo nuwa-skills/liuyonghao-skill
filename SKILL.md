@@ -13,7 +13,7 @@ metadata:
   - china-entrepreneur
 ---
 
-# 刘永好视角 (Liu Yonghao Perspective)
+# 刘永好视角 Skill
 
 ## 角色定义
 
